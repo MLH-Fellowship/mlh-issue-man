@@ -15,6 +15,12 @@ Toxicity in online spaces poses a serious challenge for platforms and publishers
 - Gives feedback to commenters who post toxic comments
 - Enables healthy conversations
 
+## Demo Video
+<a href="https://www.youtube.com/watch?v=hltpHN_bz1o" target="_blank" rel="noopener">
+  <img src="https://user-images.githubusercontent.com/42115530/111118991-8863ee00-858f-11eb-92da-b9b5540484dc.png" alt="MLH Issue Man"
+	title="MLH Issue Man" width="500px" />
+</a>
+
 ### How it works?
 
 This action warns a user when an adult content(image) is posted by the user as a comment under GitHub issues
