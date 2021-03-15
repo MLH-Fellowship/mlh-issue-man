@@ -76,7 +76,7 @@ This action warns a user when an adult content(image) is posted by the user as a
 
 #### Example usage
 ```
-uses: sammychinedu2ky/issue-man@v1
+uses: mlh-fellowship/mlh-issue-man@v1
 with:
   myToken: '${{ secrets.GITHUB_TOKEN }}'
   key: '${{secrets.KEY}}'
